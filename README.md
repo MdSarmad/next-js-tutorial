@@ -1,4 +1,4 @@
-# Routing
+# 2. Routing
 
 - Next.js has a file-system based routing system.
 - URLs you can access in your browser are determined by how you organize your files and folders in your codebase.
